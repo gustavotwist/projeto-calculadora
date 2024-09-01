@@ -1,0 +1,1 @@
+import { GlobalStyleComponents} from 'styled-components';
